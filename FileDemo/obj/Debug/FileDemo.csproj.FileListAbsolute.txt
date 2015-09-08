@@ -1,0 +1,12 @@
+E:\VC++\WindowsFirst\FileDemo\FileDemo\bin\Debug\FileDemo.exe.config
+E:\VC++\WindowsFirst\FileDemo\FileDemo\bin\Debug\FileDemo.exe
+E:\VC++\WindowsFirst\FileDemo\FileDemo\bin\Debug\FileDemo.pdb
+E:\VC++\WindowsFirst\FileDemo\FileDemo\obj\Debug\FileDemo.csprojResolveAssemblyReference.cache
+E:\VC++\WindowsFirst\FileDemo\FileDemo\obj\Debug\FileDemo.Form1.resources
+E:\VC++\WindowsFirst\FileDemo\FileDemo\obj\Debug\FileDemo.Properties.Resources.resources
+E:\VC++\WindowsFirst\FileDemo\FileDemo\obj\Debug\FileDemo.csproj.GenerateResource.Cache
+E:\VC++\WindowsFirst\FileDemo\FileDemo\obj\Debug\FileDemo.exe
+E:\VC++\WindowsFirst\FileDemo\FileDemo\obj\Debug\FileDemo.pdb
+E:\VC++\WindowsFirst\FileDemo\FileDemo\obj\Debug\FileDemo.AddProjectWindow.resources
+E:\VC++\WindowsFirst\FileDemo\FileDemo\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\VC++\WindowsFirst\FileDemo\FileDemo\obj\Debug\FileDemo.Window.LogInWindow.resources
